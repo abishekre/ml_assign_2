@@ -23,8 +23,8 @@ Unsolicited commercial bulk email (spam) degrades organizational productivity, c
 ---
 
 ## c. GitHub Repository & Live Application Links
-* **GitHub Repository Link:** [https://github.com/<your-github-username>/<your-repo-name>](https://github.com/<your-github-username>/<your-repo-name>)
-* **Live Streamlit App Link:** [https://<your-streamlit-app-url>.streamlit.app](https://<your-streamlit-app-url>.streamlit.app)
+* **GitHub Repository Link:** [https://github.com/abishekre/ml_assign_2](https://github.com/abishekre/ml_assign_2)
+* **Live Streamlit App Link:** [https://mlassign2-g4ydtwcgchgxg23zxvg8py.streamlit.app/](https://mlassign2-g4ydtwcgchgxg23zxvg8py.streamlit.app/)
 
 ---
 
